@@ -72,7 +72,7 @@ Apart from these contributions, I have contributed to other Rocket.Chat projects
 
 ## Mentors
 
-I would like to thank my mentors [Marcelo Schmidt](https://github.com/marceloschmidt) & [Douglas Gubert](https://github.com/d-guberta) for helping me reach this milestone and providing me this opportunity. 😄😄
+I would like to thank my mentors [Marcelo Schmidt](https://github.com/marceloschmidt) & [Douglas Gubert](https://github.com/d-gubert) for helping me reach this milestone and providing me this opportunity. 😄😄
 
 I have not only learned about the Open Source culture and how to write good code but also, learned how the industry works and the import
 
