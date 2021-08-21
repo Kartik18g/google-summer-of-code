@@ -40,8 +40,6 @@ All of the listed deliverables were completed within the GSoC period. YAY !! ðŸŽ
 
 The work can be found here - [App on Github](https://github.com/RocketChat/Apps.SpeechToText). Please refer to the Readme.md for setup.
 
-**I have also written a blog on how it works attached [here](https://reactnativeelements.com/blog/2021/08/12/auto-generation-of-docs).**
-
 ## ðŸš€ Contributions
 This is a standalone app built over [Rocket.Chat.Apps-Engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine) & [Rocket.Chat.Apps-Cli](https://github.com/RocketChat/Rocket.Chat.Apps-cli), which can be installed for free from the Rocket.Chat Apps marketplace. It is not a part of the core Rocket.Chat but lives inside the codebase, been provided with the maintainer rights i didn't need to create PR's so here are the commits that sum up the project.
 
